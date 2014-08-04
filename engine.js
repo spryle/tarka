@@ -65,7 +65,9 @@ _.extend(SystemList.prototype, {
 
 var Engine = function() {
   this.entities = new EntityList([], this);
-  this.systems = new SystemList([], {}, this);
+  this.systems = new SystemList([], {
+    compare: function(a, b) {return a.priority - b.priority;}
+  }, this);
   this.nodes = new FastMap();
 };
 
