@@ -11,12 +11,18 @@ var Tarka = function(initial, options) {
   this.options = options || {};
   this.running = false;
   this.elapsed = 0;
+  this.initialize.call(this, options);
 };
 
 Tarka.extend = extend;
+
 Events.mixin(Tarka.prototype);
 
 _.extend(Tarka.prototype, {
+
+  initialize: function() {
+    return this;
+  },
 
   start: function() {
     if (!this.screen) {throw 'No screen to render to.';}
