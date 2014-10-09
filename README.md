@@ -6,7 +6,7 @@ Heavily enspired by [Richard Lord](http://www.richardlord.net/blog/what-is-an-en
 
 ## Demos
 
-* [live wallpaper](//james.spry-leverton.com)
+* [live wallpaper](http://james.spry-leverton.com)
 
 ## TODO
 
