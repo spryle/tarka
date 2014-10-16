@@ -2,7 +2,7 @@
 
 ## A JavaScript Entity Component Framework
 
-Heavily enspired by [Richard Lord](http://www.richardlord.net/blog/what-is-an-entity-framework)
+Heavily inspired by [Richard Lord](http://www.richardlord.net/blog/what-is-an-entity-framework)
 
 ## Demos
 
@@ -11,4 +11,6 @@ Heavily enspired by [Richard Lord](http://www.richardlord.net/blog/what-is-an-en
 ## TODO
 
 * tests
+* docs
+* examples
 * remove view/screen
