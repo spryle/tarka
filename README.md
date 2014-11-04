@@ -6,11 +6,4 @@ Heavily inspired by [Richard Lord](http://www.richardlord.net/blog/what-is-an-en
 
 ## Demos
 
-* [live wallpaper](http://james.spry-leverton.com)
-
-## TODO
-
-* tests
-* docs
-* examples
-* remove view/screen
+* [Wallpaper](http://james.spry-leverton.com)

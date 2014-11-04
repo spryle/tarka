@@ -1,5 +1,5 @@
 var _ = require('underscore');
-var extend = require('./utils/extend.js');
+var extend = require('ampersand-class-extend');
 
 
 var System = function(engine) {

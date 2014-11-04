@@ -1,8 +1,8 @@
 {
   "name": "tarka",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "description": "A Component Entity Framework",
-  "main": "tarka.js",
+  "main": "engine.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,8 +24,8 @@
   "homepage": "https://github.com/spryle/tarka",
   "private": false,
   "dependencies": {
-    "underscore": "^1.6.0",
+    "ampersand-class-extend": "^1.0.1",
     "collections": "^1.1.0",
-    "backbone-events-standalone": "^0.2.2"
+    "underscore": "^1.6.0"
   }
 }
